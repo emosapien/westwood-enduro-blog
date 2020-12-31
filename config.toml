@@ -9,9 +9,9 @@ paginate = 5
     name = "Home"
     url = "/"
   [[menu.main]]
-    identifier = "posts"
-    name = "Posts"
-    url = "/posts/"
+    identifier = "coding"
+    name = "Coding"
+    url = "/coding/"
   [[menu.main]]
     identifier = "tags"
     name = "Tags"

@@ -5,16 +5,7 @@
     <link>https://westwood-blog.web.app/</link>
     <description>Recent content on Westwood Enduro</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 30 Dec 2020 16:54:23 -0800</lastBuildDate><atom:link href="https://westwood-blog.web.app/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Coding</title>
-      <link>https://westwood-blog.web.app/coding/</link>
-      <pubDate>Wed, 30 Dec 2020 18:01:12 -0800</pubDate>
-      
-      <guid>https://westwood-blog.web.app/coding/</guid>
-      <description>Current coding projects  Westwood Overland App Westwood Enduro Blog (oh hai!) Promo Code Dispenser Foam based memory mapping  </description>
-    </item>
-    
+    <lastBuildDate>Wed, 30 Dec 2020 18:01:12 -0800</lastBuildDate><atom:link href="https://westwood-blog.web.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First Post</title>
       <link>https://westwood-blog.web.app/posts/first-post/</link>
